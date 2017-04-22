@@ -5,8 +5,6 @@ import subprocess
 import re
 
 DF_LOCATION = '/home/jarrad/opt/df'
-DFHACK_LOCATION = '/home/jarrad/src/web/dfhack'
-TWBT_LOCATION = '/home/jarrad/src/web/df-twbt'
 
 TEMP_DIR = '/home/jarrad/Downloads/DF'
 
